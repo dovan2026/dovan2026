@@ -64,8 +64,9 @@
 
 | 프로젝트 이름 | 설명 | 사용 기술 스택 |
 |:---:|:---:|:---:|
-| 🔭 [프로젝트1](https://github.com/YOUR_GITHUB_USERNAME) | 프로젝트에 대한 간단한 설명을 적어주세요. | Python, FastAPI |
-| 🧱 [프로젝트2](https://github.com/YOUR_GITHUB_USERNAME) | 프로젝트에 대한 간단한 설명을 적어주세요. | Python, LLM |
+| 🚗 [프로젝트1](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN30-1st-4Team) | 전기차 충전 인프라 SOS 대시보드 | Python, Crawling |
+| 📺 [프로젝트2](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN30-2nd-1Team) | YouTube 크리에이터 분석을 통한 광고효율 및 지속가능성 추천 시스템 | Python, FastAPI |
+| 🪴 [프로젝트3](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN30-3rd-3Team) | 멀티모달 RAG 기반 식물 주치의 AI | Python, LLM |
 
 </div>
 
