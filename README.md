@@ -32,6 +32,8 @@
 <h3 align="center">📚 Studying 📚</h3>
 
 <div align="center">
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5"/>&nbsp;
   <!-- Linux -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>&nbsp;
   <!-- Docker -->
@@ -72,7 +74,7 @@
 
 | 프로젝트 이름 | 설명 | 사용 기술 스택 |
 |:---:|:---:|:---:|
-| 🚗 [프로젝트1](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN30-1st-4Team) | 전기차 충전 인프라 SOS 대시보드 | Python, Crawling |
+| 🚗 [프로젝트1](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN30-1st-4Team) | 전기차 충전 인프라 SOS 대시보드 | Python, SQL, Docker, JavaScript, Node.js |
 | 📺 [프로젝트2](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN30-2nd-1Team) | YouTube 크리에이터 분석을 통한 광고효율 및 지속가능성 추천 시스템 | Python, FastAPI |
 | 🪴 [프로젝트3](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN30-3rd-3Team) | 멀티모달 RAG 기반 식물 주치의 AI | Python, LLM |
 
