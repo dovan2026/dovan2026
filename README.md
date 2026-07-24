@@ -1,5 +1,7 @@
-<!-- 헤더 배너 (도반님의 이름과 Playdata CAMP 소개 반영) -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12&height=200&section=header&text=Hi%2C%20I'm%20Dovan%20DH%20KIM!%20⚡&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Playdata%20CAMP(Seocho)%20SKN%2030%20%7C%20Analytics%20Engineering%20%7C%20AI%20%7C%20LLM&descAlignY=58&descAlign=50&descSize=15)
+<!-- 헤더 배너 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12&height=200&section=header&text=Hi%2C%20I'm%20Dovan%20DH%20KIM!%20⚡&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Playdata%20CAMP(Seocho)%20SKN%2030%20%7C%20Analytics%20Engineering%20%7C%20AI%20%7C%20LLM&descAlignY=58&descAlign=50&descSize=15" />
+</div>
 
 <!-- 타이핑 애니메이션 -->
 <div align="center">
@@ -55,7 +57,7 @@
 <!-- Docker --> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;
 <!-- AWS --> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>&nbsp;
 <!-- Google Cloud --> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>&nbsp;
-<!-- Vercel --> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>&nbsp;
+<!-- Vercel --> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </div>
 
 <br/>
@@ -68,7 +70,7 @@
   <!-- Notion --> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>&nbsp;
   <!-- Figma --> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>&nbsp;
   <!-- DBeaver --> <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
-  <br>
+  <br><br>
   <!-- Swagger --> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>&nbsp;
   <!-- MySQL Workbench --> <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
   <!-- Discord --> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>&nbsp;
@@ -79,7 +81,10 @@
 
 ---
 
-<!-- 나중에 진행하시는 프로젝트를 여기에 채워 넣으시면 됩니다! -->
+<h3 align="center">🌷 Projects 🌷</h3>
+
+<br/>
+
 <div align="center">
   <table width="100%">
     <thead>
@@ -116,9 +121,14 @@
     </tbody>
   </table>
 </div>
+
+<br/>
+
 ---
 
 <br/>
 
 <!-- 푸터 웨이브 배너 -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12&height=120&section=footer)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12&height=120&section=footer" />
+</div>
