@@ -17,8 +17,14 @@
 <div align="center">
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-D4F1C0?style=for-the-badge&logo=python&logoColor=black"/>&nbsp;
+  <!-- MySQL -->
+  <img src="https://img.shields.io/badge/MySQL-FFD1DC?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
   <!-- HTML5 -->
   <img src="https://img.shields.io/badge/HTML5-FFB3C1?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
+  <!-- FastAPI -->
+  <img src="https://img.shields.io/badge/FastAPI-C8F0D8?style=for-the-badge&logo=fastapi&logoColor=white"/>&nbsp;
+  <!-- Django -->
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>&nbsp;
 </div>
 
 <br/>
@@ -26,10 +32,12 @@
 <h3 align="center">📚 Studying 📚</h3>
 
 <div align="center">
-  <!-- FastAPI -->
-  <img src="https://img.shields.io/badge/FastAPI-C8F0D8?style=for-the-badge&logo=fastapi&logoColor=white"/>&nbsp;
-  <!-- MySQL -->
-  <img src="https://img.shields.io/badge/MySQL-FFD1DC?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
+  <!-- Linux -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>&nbsp;
+  <!-- Docker -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;
+  <!-- Amazon Web Services (AWS) -->
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>&nbsp;
   <!-- Google Cloud (GCP) -->
   <img src="https://img.shields.io/badge/Google%20Cloud-B5D5FF?style=for-the-badge&logo=googlecloud&logoColor=white"/>&nbsp;
 </div>
