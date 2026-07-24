@@ -55,6 +55,7 @@
 <!-- Docker --> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;
 <!-- AWS --> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>&nbsp;
 <!-- Google Cloud --> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>&nbsp;
+<!-- Vercel --> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>&nbsp;
 </div>
 
 <br/>
@@ -67,7 +68,7 @@
   <!-- Notion --> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>&nbsp;
   <!-- Figma --> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>&nbsp;
   <!-- DBeaver --> <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
-  <br><br>
+  <br>
   <!-- Swagger --> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>&nbsp;
   <!-- MySQL Workbench --> <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
   <!-- Discord --> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>&nbsp;
@@ -87,9 +88,12 @@
 
 | 프로젝트 이름 | 설명 | 사용 기술 스택 |
 |:---:|:---:|:---:|
-| 🚗 [프로젝트1](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN30-1st-4Team) | 전기차 충전 인프라 SOS 대시보드 | Python, SQL, Docker, JavaScript, Node.js |
-| 📺 [프로젝트2](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN30-2nd-1Team) | YouTube 크리에이터 분석을 통한 광고효율 및 지속가능성 추천 시스템 | Python, FastAPI |
-| 🪴 [프로젝트3](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN30-3rd-3Team) | 멀티모달 RAG 기반 식물 주치의 AI | Python, LLM |
+| 🚗 [프로젝트1](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN30-1st-4Team) | 전기차 충전 인프라 SOS 대시보드 |
+| Python, MySQL, Streamlit, Plotly, Pandas, NumPy, Selenium |
+| 📺 [프로젝트2](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN30-2nd-1Team) | YouTube 크리에이터 분석을 통한 광고효율 및 지속가능성 추천 시스템 |
+| Python, MySQL, Plotly, Scikit-learn, Docker, Pandas, NumPy, Streamlit |
+| 🪴 [프로젝트3](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN30-3rd-3Team) | 멀티모달 RAG 기반 식물 주치의 AI |
+| Python, React, TypeScript, Vite, FastAPI, Pydantic, LangGraph, PostgreSQL, Supabase, pgvector, OpenAI, Vercel, Render |
 
 </div>
 
