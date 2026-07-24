@@ -118,26 +118,6 @@
 </div>
 ---
 
-<!-- 깃허브 잔디 및 분석 카드 (YOUR_GITHUB_USERNAME 부분을 본인 아이디로 교체해 주세요) -->
-<h3 align="center">📊 GitHub Stats 📊</h3>
-
-<div align="center">
-  <!-- 잔디밭 그래프 (f9a8c9는 잔디 색상 테마입니다) -->
-  <img src="https://ghchart.rshah.org/9eb8fb/YOUR_GITHUB_USERNAME" alt="Github Contribution Chart"/>
-</div>
-<br/>
-
-<div align="center">
-  <!-- 주로 사용하는 언어 비율 카드 -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=rose_pine&hide_border=true" height="160"/>
-  <!-- 커밋 횟수가 가장 많은 언어 카드 -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=rose_pine&hide_border=true" height="160"/>
-</div>
-
-<br/>
-
----
-
 <br/>
 
 <!-- 푸터 웨이브 배너 -->
