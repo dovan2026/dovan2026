@@ -15,16 +15,34 @@
 <h3 align="center">✨ Tech Stack ✨</h3>
 
 <div align="center">
-  <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-D4F1C0?style=for-the-badge&logo=python&logoColor=black"/>&nbsp;
-  <!-- MySQL -->
-  <img src="https://img.shields.io/badge/MySQL-FFD1DC?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
-  <!-- HTML5 -->
-  <img src="https://img.shields.io/badge/HTML5-FFB3C1?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
-  <!-- FastAPI -->
-  <img src="https://img.shields.io/badge/FastAPI-C8F0D8?style=for-the-badge&logo=fastapi&logoColor=white"/>&nbsp;
-  <!-- Django -->
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>&nbsp;
+<!-- Language & Web & DB -->
+<!-- Python --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
+<!-- HTML5 --> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
+<!-- FastAPI --> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>&nbsp;
+<!-- Django --> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>&nbsp;
+<!-- MySQL --> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br>
+
+<!-- Data Analysis & ML -->
+<!-- Pandas --> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>&nbsp;
+<!-- NumPy --> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>&nbsp;
+<!-- Scikit-learn --> <img src="https://img.shields.io/badge/scikit_learn-F79939?style=for-the-badge&logo=scikitlearn&logoColor=white"/>&nbsp;
+<!-- PyTorch --> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<br>
+
+<!-- LLM & Generative AI -->
+<!-- Hugging Face --> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>&nbsp;
+<!-- LangChain --> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>&nbsp;
+<!-- OpenAI --> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<br>
+
+<!-- Scraping & Web UI -->
+<!-- Selenium --> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>&nbsp;
+<!-- BeautifulSoup4 --> <img src="https://img.shields.io/badge/BeautifulSoup4-00599C?style=for-the-badge&logo=pypi&logoColor=white"/>&nbsp;
+<!-- Streamlit --> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </div>
 
 <br/>
@@ -32,14 +50,11 @@
 <h3 align="center">📚 Studying 📚</h3>
 
 <div align="center">
-  <!-- Linux -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>&nbsp;
-  <!-- Docker -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;
-  <!-- Amazon Web Services (AWS) -->
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>&nbsp;
-  <!-- Google Cloud (GCP) -->
-  <img src="https://img.shields.io/badge/Google%20Cloud-B5D5FF?style=for-the-badge&logo=googlecloud&logoColor=white"/>&nbsp;
+<!-- Infra, DevOps & Cloud -->
+<!-- Linux --> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>&nbsp;
+<!-- Docker --> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;
+<!-- AWS --> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>&nbsp;
+<!-- Google Cloud --> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>&nbsp;
 </div>
 
 <br/>
