@@ -32,8 +32,6 @@
 <h3 align="center">📚 Studying 📚</h3>
 
 <div align="center">
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5"/>&nbsp;
   <!-- Linux -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>&nbsp;
   <!-- Docker -->
@@ -59,6 +57,18 @@
   <img src="https://img.shields.io/badge/Figma-FFD6E0?style=for-the-badge&logo=figma&logoColor=white"/>&nbsp;
   <!-- VS Code -->
   <img src="https://img.shields.io/badge/VS%20Code-B8E4D0?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>&nbsp;
+  <!-- DBeaver -->
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white"/>&nbsp;
+  <!-- Swagger -->
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>&nbsp;
+  <!-- MySQL Workbench -->
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
+  <!-- Slack -->
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>&nbsp;
+  <!-- Discord -->
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>&nbsp;
+  <!-- Docker Desktop -->
+  <img src="https://img.shields.io/badge/Docker%20Desktop-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;
 </div>
 
 <br/>
