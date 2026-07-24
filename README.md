@@ -80,25 +80,42 @@
 ---
 
 <!-- 나중에 진행하시는 프로젝트를 여기에 채워 넣으시면 됩니다! -->
-<h3 align="center">🌷 Projects 🌷</h3>
-
-<br/>
-
 <div align="center">
-
-| 프로젝트 이름 | 설명 | 사용 기술 스택 |
-|:---:|:---:|:---:|
-| 🚗 [프로젝트1](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN30-1st-4Team) | 전기차 충전 인프라 SOS 대시보드 |
-| Python, MySQL, Streamlit, Plotly, Pandas, NumPy, Selenium |
-| 📺 [프로젝트2](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN30-2nd-1Team) | YouTube 크리에이터 분석을 통한 광고효율 및 지속가능성 추천 시스템 |
-| Python, MySQL, Plotly, Scikit-learn, Docker, Pandas, NumPy, Streamlit |
-| 🪴 [프로젝트3](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN30-3rd-3Team) | 멀티모달 RAG 기반 식물 주치의 AI |
-| Python, React, TypeScript, Vite, FastAPI, Pydantic, LangGraph, PostgreSQL, Supabase, pgvector, OpenAI, Vercel, Render |
-
+  <table width="100%">
+    <thead>
+      <tr>
+        <th width="30%">프로젝트 이름</th>
+        <th width="70%">설명</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- 프로젝트 1 -->
+      <tr>
+        <td align="center">🚗 <a href="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN30-1st-4Team">프로젝트1</a></td>
+        <td>전기차 충전 인프라 SOS 대시보드</td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center"><b>Tech Stack:</b> Python, MySQL, Streamlit, Plotly, Pandas, NumPy, Selenium</td>
+      </tr>
+      <!-- 프로젝트 2 -->
+      <tr>
+        <td align="center">📺 <a href="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN30-2nd-1Team">프로젝트2</a></td>
+        <td>YouTube 크리에이터 분석을 통한 광고효율 및 지속가능성 추천 시스템</td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center"><b>Tech Stack:</b> Python, MySQL, Plotly, Scikit-learn, Docker, Pandas, NumPy, Streamlit</td>
+      </tr>
+      <!-- 프로젝트 3 -->
+      <tr>
+        <td align="center">🪴 <a href="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN30-3rd-3Team">프로젝트3</a></td>
+        <td>멀티모달 RAG 기반 식물 주치의 AI</td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center"><b>Tech Stack:</b> Python, React, TypeScript, Vite, FastAPI, Pydantic, LangGraph, PostgreSQL, Supabase, pgvector, OpenAI, Vercel, Render</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
-
-<br/>
-
 ---
 
 <!-- 깃허브 잔디 및 분석 카드 (YOUR_GITHUB_USERNAME 부분을 본인 아이디로 교체해 주세요) -->
