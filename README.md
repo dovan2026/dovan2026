@@ -144,6 +144,14 @@
       <tr>
         <td colspan="2" align="left"><b>Tech Stack:</b> Python, React, TypeScript, Vite, FastAPI, Pydantic, LangGraph, PostgreSQL, Supabase, pgvector, OpenAI, Vercel, Render</td>
       </tr>
+       <!-- 프로젝트 4 -->
+      <tr>
+        <td align="left">🪴💫 <a href="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN30-4th-3Team">프로젝트3</a></td>
+        <td align="left">멀티모달 RAG 기반 식물 주치의 AI 확장 및 품질 개선</td>
+      </tr>
+      <tr>
+        <td colspan="2" align="left"><b>Tech Stack:</b> Python, React, TypeScript, Vite, FastAPI, Pydantic, LangGraph, PostgreSQL, Supabase, pgvector, OpenAI, Vercel, Render</td>
+      </tr>
     </tbody>
   </table>
 </div>
