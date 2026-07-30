@@ -67,10 +67,12 @@
 
 <br>
 
-<!-- Scraping & Web UI -->
+<!-- Scraping & Web UI & Infra, DevOps & Cloud -->
 <!-- Selenium --> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>&nbsp;
 <!-- BeautifulSoup4 --> <img src="https://img.shields.io/badge/BeautifulSoup4-00599C?style=for-the-badge&logo=pypi&logoColor=white"/>&nbsp;
 <!-- Streamlit --> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<!-- Docker --> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;
+<!-- AWS --> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>&nbsp;
 </div>
 
 <br/>
@@ -80,8 +82,6 @@
 <div align="center">
 <!-- Infra, DevOps & Cloud -->
 <!-- Linux --> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>&nbsp;
-<!-- Docker --> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;
-<!-- AWS --> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>&nbsp;
 <!-- Google Cloud --> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>&nbsp;
 <!-- Vercel --> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </div>
